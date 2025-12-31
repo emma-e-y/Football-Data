@@ -1,6 +1,6 @@
 Methodology & Data
 
-All quantitative analysis in this project is derived from publicly available NFL play-by-play data provided by the nflfastR / nfl_data_py ecosystem. Unless otherwise noted, metrics are computed at the season level using the full set of recorded offensive and defensive plays for the Tennessee Titans (and Houston Oilers prior to relocation), spanning 2000–2024 for play-level efficiency and 1960–2024 for scoring and rating-based measures.
+All quantitative analysis in this project is derived from publicly available NFL play-by-play data provided by the nflfastR / nfl_data_py ecosystem and Pro-Football-Reference.com. Unless otherwise noted, metrics are computed at the season level using the full set of recorded offensive and defensive plays for the Tennessee Titans (and Houston Oilers prior to relocation), spanning 2000–2024 for play-level efficiency and 1960–2024 for scoring and rating-based measures.
 
 Per-play efficiency metrics—including Expected Points Added (EPA), early-down EPA, and success rate—are calculated over the complete universe of plays attributed to the Titans’ offense or defense in the source data, without additional play-type filtering. Plays are not restricted to runs and passes, nor are penalties, sacks, or other edge cases explicitly removed. This approach prioritizes internal consistency and historical stability across seasons over alignment with any single “cleaned” public EPA definition. Early-down EPA reflects performance on first and second downs only, evaluated within the same unfiltered play universe.
 
