@@ -9,13 +9,12 @@ The project reframes coach-centric explanations for failure as incomplete, argui
 
 - `/python/` – Data collection, cleaning, and analysis scripts
 - `/data/` – Source and intermediate datasets (where applicable)
-- `/visualizations/` – Generated charts and figures
-- Methodology & Data – Detailed explanation of data sources, metric definitions, and analytical assumptions
+- Methodology – Detailed explanation of data sources, metric definitions, and analytical assumptions
 - Published analysis – Linked written explanations and visualizations (see external links)
 
 ## Methods
 
-All data sources, metric definitions, and analytical decisions are documented in the **Methodology & Data** section.  
+All data sources, metric definitions, and analytical decisions are documented in the **Methodology** section.  
 This includes explanations of EPA, success rate, PROE, and long-term rating-based measures such as SRS.
 
 ## External Links
